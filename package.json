@@ -1,0 +1,18 @@
+{
+  "name": "nomination-form",
+  "version": "1.0.0",
+  "description": "MSME Startup Summit 2025 - Nomination Form",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "MSME Startup Summit",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}
